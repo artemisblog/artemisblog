@@ -64,7 +64,8 @@ Villaggio delle Calde Primavere: (Villaggio nascosto nell'Acqua Calda) è andato
 Villaggio della Luna (Villaggio nascosto della Luna).
 
 ## Paese della Neve:
-#### 
+#### Rispetto aglia altri stati ha un livello di tecnologia molto avanzato, infatti possiede ferrovie, dirigibili, generatori di elettricità, mitragliatrici che invece di sparare proiettili sparano kunai. 
+Villaggio della Neve (Villaggio nascosto della Neve).
 
 # Paesi non Ninja
 
